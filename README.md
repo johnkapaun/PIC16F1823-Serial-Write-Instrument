@@ -1,0 +1,2 @@
+# PIC16F1823-Serial-Write-Instrument
+This shows how to use a PIC to drive a Data and Clock line to do Serial Writes.  Although HyperTerminal is no longer supported on your PC, I have been able to run it on systems up to 2008.  It probibly works on 2010 as well but I have not tried it.  This intrument is used to get rid of the need of NI-DAQ in the case of a serial write interface.  See PIC16F1823 Serial Write Instrument &amp; UI.docx for more information.
